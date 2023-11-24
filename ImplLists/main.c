@@ -2,10 +2,7 @@
  *
  * file: main.c
  *
- * @Author  Nikolaos Vasilikopoulos (nvasilik@csd.uoc.gr)
- * @Version 25-10-2022
- *
- * @e-mail       hy240-list@csd.uoc.gr
+  @Author  Alexandros Papafragkakis (csd5084@csd.uoc.gr)
  *
  * @brief   Main function for the needs of CS-240 project 2022.Prof. Panagiota Fatourou.
  * @see     Compile with command: gcc -ansi main.c pss.c -o run
