@@ -4,7 +4,7 @@
  *
   @Author  Alexandros Papafragkakis (csd5084@csd.uoc.gr)
  *
- * @brief   Main function for the needs of CS-240 project 2022.Prof. Panagiota Fatourou.
+ * @brief   Main function for the needs of CS-240 project 2022
  * @see     Compile with command: gcc -ansi main.c pss.c -o run
  ***************************************************************
  */
