@@ -1,7 +1,7 @@
 /***************************************************************
  *
  * file: pss.h
- *
+ * @Author  Alexandros Papafragkakis (csd5084@csd.uoc.gr)
  *
  * @brief   Header file for the Public Subscribe System,
  * with the structures and function prototypes
