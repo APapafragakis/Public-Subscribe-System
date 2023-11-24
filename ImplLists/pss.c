@@ -2,10 +2,10 @@
  *
  * file: pss.h
  *
+ * @Author  Alexandros Papafragkakis (csd5084@csd.uoc.gr)
  *
  * @brief   Implementation of the "pss.h" header file for the Public Subscribe System,
  * function definitions
- *
  *
  ***************************************************************
  */
